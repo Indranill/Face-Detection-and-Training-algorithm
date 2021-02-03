@@ -1,16 +1,25 @@
 # Face-Detection-and-Training-algorithm
 This is a face detection algorithm guide. So, that everyone be able to detect faces and include their own creativity.
 step1:- install anaconda.
+
 step1.1:- create a new environment.
+
 step1.2:- enter the new environment created.
+
 step1.3:- open anaconda prompt.
+
 step1.4:- enter the new environment.
               #conda activate <new env_name>
+  
 step1.5:- pip install pillow,tkinter,opencv,pandas,numpy,tensorflow.
               (better to install them individually)
+              
 step1.6:- goto anaconda and install jupyter notebook and launch it.
+
 step2:- goto the project folder.
+
 step3:- create a notebook and create a data folder inside project folder and inside data folder create a test folder and train folder.
+
 step4:- copy the haar cascade xml file from github and paste it on the project folder.
           	opencv/haarcascade_profileface.xml at master · opencv/opencv (github.com)
 
